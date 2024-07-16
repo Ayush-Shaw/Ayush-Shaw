@@ -6,7 +6,7 @@ I’m Ayush Shaw, a dedicated Frontend JavaScript Developer with a passion for c
 - Languages: HTML, CSS, JavaScript
 - Frameworks/Libraries: React, React Toolkit, Redux
 - Styling: Tailwind CSS
-- Tools: Git, Webpack, npm
+- Tools: Git, npm
   
 🚀 What I Do:
 - Develop and maintain user-friendly web interfaces
@@ -17,7 +17,7 @@ I’m Ayush Shaw, a dedicated Frontend JavaScript Developer with a passion for c
   
 🌱 Currently Learning:
 - Next.js
-- Mongo DB
+- Express & MongoDB
 - IT Automation with Python
 
 💬 Let’s Connect:
