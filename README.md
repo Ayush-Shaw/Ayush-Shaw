@@ -21,6 +21,6 @@ I’m Ayush Shaw, a dedicated Frontend JavaScript Developer with a passion for c
 - IT Automation with Python
 
 💬 Let’s Connect:
+- E-Mail: ayushshaw1428@gmail.com
 - LinkedIn: www.linkedin.com/in/shaw-ayush
-- Twitter: 
-- Personal Website
+- Personal Website - Coming Soon...
